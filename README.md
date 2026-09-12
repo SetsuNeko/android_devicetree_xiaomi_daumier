@@ -1,7 +1,7 @@
-# Device tree for Xiaomi 12 Pro Dimensity Edition (daumier)
-The Xiaomi 12 Pro Dimensity Edition (codenamed _"daumier"_) is a flagship smartphone from Xiaomi.
+# Device tree for Xiaomi 12 Pro Dimensity Edition (daumier_cn)
+The Xiaomi 12 Pro Dimensity Edition (codenamed _"daumier"_) is a flagship smartphone from Xiaomi. 
 
-It was announced on 2022, July 04. Release date was 2022, July 13.
+It was announced on 2022, July 04. Release date was 2022, July 13. Sold only in mainland China.
 
 ## Device specifications
 
