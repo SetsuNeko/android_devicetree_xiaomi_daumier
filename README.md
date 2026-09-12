@@ -17,4 +17,4 @@ Battery | Non-removable Li-Po 5160 mAh battery
 Display | 6.73 inches, AMOLED, 1440 x 3200 pixels (2K), 120Hz, Dolby Vision, HDR10+
 
 ## Device picture
-![Xiaomi 12 Pro Dimensity Edition](https://i02.appmifile.com/images/2022/07/04/2c7b0b0c-3c4e-4c5e-9c6e-2b5d0e7f8a9c.png)
+![Xiaomi 12 Pro Dimensity Edition](assets/daumier.png)
