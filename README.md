@@ -1,20 +1,20 @@
-# Device tree for Redmi Note 12T Pro (pearl)
-The Redmi Note 12T Pro (codenamed _"pearl"_) is a mid-range smartphone from Xiaomi.
+# Device tree for Xiaomi 12 Pro Dimensity Edition (daumier)
+The Xiaomi 12 Pro Dimensity Edition (codenamed _"daumier"_) is a flagship smartphone from Xiaomi.
 
-It was announced on 2023, May 29. Release date was 2023, June 01.
+It was announced on 2022, July 04. Release date was 2022, July 13.
 
 ## Device specifications
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | Octa-core (1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
-Chipset | Mediatek Dimensity 8200-Ultra (4 nm)
-GPU     | Mali-G610 MC6
+CPU     | 1x3.2 GHz Cortex-X2 & 3x2.85 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510
+Chipset | MediaTek Dimensity 9000+ (4 nm)
+GPU     | Mali-G710 MC10
 Memory  | 8/12 GB RAM
-Shipped Android Version | Android 13, MIUI 14 up Android 15, Hyper OS
-Storage | 128/256/512 (UFS 3.1)
-Battery | Non-removable Li-Po 5080 mAh battery
-Display | 1080 x 2460 pixels, 6.6 inches, Dobly Vision, IPS LCD
+Shipped Android Version | Android 12, MIUI 13
+Storage | 128/256/512 GB (UFS 3.1)
+Battery | Non-removable Li-Po 5160 mAh battery
+Display | 6.73 inches, AMOLED, 1440 x 3200 pixels (2K), 120Hz, Dolby Vision, HDR10+
 
 ## Device picture
-![Redmi Note 12T Pro](https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202305291422_e96776c7e1e35cebb454457c3344d3cd.png)
+![Xiaomi 12 Pro Dimensity Edition](https://i02.appmifile.com/images/2022/07/04/2c7b0b0c-3c4e-4c5e-9c6e-2b5d0e7f8a9c.png)
